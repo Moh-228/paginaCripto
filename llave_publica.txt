@@ -1,0 +1,3 @@
+-----BEGIN PUBLIC KEY-----
+(La llave pública se generará en la práctica de ECDSA)
+-----END PUBLIC KEY-----
